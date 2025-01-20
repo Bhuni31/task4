@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Added content in master branch folder2
 =======
 Added content in master branch folder1
 >>>>>>> 4544169fd4ddb52eeb65a85ea657e617e7b7fe7c
+=======
+Added content in first branch folder1
+>>>>>>> 75eabfd85a35d4b413ca5cde97fa8310dc1593fa
